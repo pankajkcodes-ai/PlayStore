@@ -26,6 +26,8 @@ Shellcode It Services
 
 MeatBeats : https://play.google.com/store/apps/details?id=com.shellcode.meatbeat_user
 
+MeatBeats Vendor : https://play.google.com/store/apps/details?id=com.shellcodesolutions.meat_bite_vendor
+
 Vitofit : https://apkpure.com/ai-vitofit/com.shellcode.vito_fitness
           https://ai-vitofit.com/
 
