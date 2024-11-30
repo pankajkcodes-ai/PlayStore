@@ -18,5 +18,5 @@ Bhavishyavaani : https://play.google.com/store/apps/details?id=com.bhavishyavaan
 
 Vaktaa :  https://play.google.com/store/apps/details?id=com.bhavishyavaani.vaktaa
 
-https://matka777.vip/
+Matka777 : https://matka777.vip/
 
